@@ -1,2 +1,2 @@
 # Data-Analysis-Project
-Python Project on Sales Dataset
+Excel Project on Sales Dataset
